@@ -2,6 +2,9 @@
 
 [![Amber Framework](https://img.shields.io/badge/using-amber_framework-orange.svg)](https://amberframework.org)
 
+Noumenomicon is a web app that organizes and produces random tabletop RPG phenomena. tabletop gamers are intimately familiar with randomized tables for all manner of narrative seeds and thematic events.
+
+
 This is a project written using [Amber](https://amberframework.org). Enjoy!
 
 ## Getting Started
@@ -47,4 +50,4 @@ crystal spec
 
 ## Contributors
 
-- [your-github-user](https://github.com/your-github-user) your-name-here - creator, maintainer
+- [koslowdavida](https://github.com/koslowdavida) David Koslow - creator, maintainer
